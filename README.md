@@ -25,21 +25,11 @@ This repository contains a deep learning project focused on **detecting deepfake
 
 - Provides scripts and notebooks for **training CNN models** on GPU-enabled hardware, optimizing performance.
 
-### Evaluation Metrics
 
-- Tools for evaluating model performance using metrics like:
-  - **Accuracy**
-  - **Precision**
-  - **Recall**
-  - **F1-score**
+### License
 
-## Contributions
+This project is licensed under the [MIT License](./LICENSE). See the [LICENSE](./LICENSE) file for more details.
 
-Contributions and enhancements are welcome! Whether you're improving the **CNN architecture**, adding new **datasets**, or optimizing preprocessing steps, your contributions can help advance deepfake detection technology.
-
-## License
-
-This project is licensed under the **MIT License**, allowing for both academic and commercial use.
 
 ## About
 
