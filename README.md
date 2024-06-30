@@ -1,6 +1,12 @@
 # Deepfake Detection using Convolutional Neural Networks (CNNs)
 
-# Project Link: https://drive.google.com/file/d/1UISft91TzHle46ZTWjvDKbnP9Vz5DxG8/view?usp=sharing
+## The above files from 0 to 3 covers model training steps.
+
+## Note: 
+The is a paid project.
+
+# Project Link:
+https://portfolio-six-pearl-34.vercel.app/
 
 ## Overview
 
