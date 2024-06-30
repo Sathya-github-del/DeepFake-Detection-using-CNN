@@ -1,5 +1,6 @@
 # Deepfake Detection using Convolutional Neural Networks (CNNs)
 
+
 ## Overview
 
 This repository contains a deep learning project focused on **detecting deepfake images and videos** using Convolutional Neural Networks (CNNs). Deepfakes are AI-generated media that manipulate visual and auditory content, posing challenges related to misinformation and privacy.
@@ -31,26 +32,6 @@ This repository contains a deep learning project focused on **detecting deepfake
   - **Precision**
   - **Recall**
   - **F1-score**
-
-### Deployment
-
-- Guidelines or scripts for deploying trained models to detect deepfakes in:
-  - **Real-time scenarios**
-  - **Batch processing** environments
-
-## Usage
-
-1. **Dataset Preparation**:
-   - Download and preprocess datasets using provided scripts.
-
-2. **Model Training**:
-   - Train CNN models using notebooks or scripts provided, leveraging GPU for faster training.
-
-3. **Evaluation**:
-   - Evaluate model performance using included evaluation scripts and metrics.
-
-4. **Deployment**:
-   - Deploy trained models in your application for real-time deepfake detection.
 
 ## Contributions
 
