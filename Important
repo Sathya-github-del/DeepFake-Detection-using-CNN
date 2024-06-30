@@ -1,2 +1,12 @@
-# Install these libraries before running project
+Install Python 3.7.1 first then
 
+Install these libraries before running project
+
+-pip install mtcnn
+-pip install matplotlib
+-pip install scikit-learn
+-pip install tensorflow==2.7.0
+-pip install flask
+-pip install opencv-python
+-pip install protobuf==3.9.0
+-pip install urllib==1.24.3
