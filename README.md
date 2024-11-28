@@ -4,7 +4,7 @@
 
 
 # Project Link:
-https://portfolio-six-pearl-34.vercel.app/(yet to be updated)
+https://portfolio-six-pearl-34.vercel.app/ (yet to be updated)
 
 ## Overview
 
