@@ -2,11 +2,9 @@
 
 ## The above files from 0 to 3 covers model training steps.
 
-## Note: 
-This is a paid project.
 
 # Project Link:
-https://portfolio-six-pearl-34.vercel.app/
+https://portfolio-six-pearl-34.vercel.app/(yet to be updated)
 
 ## Overview
 
