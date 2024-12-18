@@ -1,6 +1,6 @@
 # Deepfake Detection using Convolutional Neural Networks (CNNs)
 
-## The above files from 0 to 3 covers model training steps.
+## The above files from 0 to 3 covers model training steps with implemented codes for training the model.
 
 
 # Portfolio Link:
