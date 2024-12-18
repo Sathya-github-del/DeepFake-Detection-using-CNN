@@ -2,10 +2,6 @@
 
 ## The above files from 0 to 3 covers model training steps with implemented codes for training the model.
 
-
-# Portfolio Link:
-https://portfolio-six-pearl-34.vercel.app/ 
-
 ## Overview
 
 This repository contains a deep learning project focused on **detecting deepfake images and videos** using Convolutional Neural Networks (CNNs). Deepfakes are AI-generated media that manipulate visual and auditory content, posing challenges related to misinformation and privacy.
