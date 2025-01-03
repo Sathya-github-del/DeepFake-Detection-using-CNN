@@ -5,6 +5,7 @@
 ## Overview
 
 This repository contains a deep learning project focused on **detecting deepfake images and videos** using Convolutional Neural Networks (CNNs). Deepfakes are AI-generated media that manipulate visual and auditory content, posing challenges related to misinformation and privacy.
+Check Releases for the Project.
 
 ## Key Features
 
